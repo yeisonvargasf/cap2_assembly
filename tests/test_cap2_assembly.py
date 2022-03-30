@@ -6,7 +6,7 @@
 import unittest
 from click.testing import CliRunner
 
-from cap2_assembly import cap2_assembly
+# from cap2_assembly import cap2_assembly # Uncomment when tests written
 from cap2_assembly import cli
 
 
